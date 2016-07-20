@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background: lightblue;
+}
+header {
+  margin: auto;
+  text-align: center;
+}
+main {
+  margin: auto;
+  text-align: center;
+}
+button{
+  background: gold;
+  height: 2em;
+  padding: 20px;
+  font-size: 2em;
+  border: none;
+  box-shadow: 1px 1px 6px black;
+}
