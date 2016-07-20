@@ -15,6 +15,9 @@ main {
   margin: auto;
   text-align: center;
 }
+#awesomeResult {
+  text-align:center;
+}
 button{
   background: gold;
   height: 2em;
